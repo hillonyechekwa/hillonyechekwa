@@ -1,6 +1,6 @@
 <h1 align="left">Hey Nerds :grin:</h1>
 
-Will code for :pancakes: and money. I'm a recluse i need both.
+Will code for :pancakes: and money. I'm a recluse, I need both.
 
 I'm an a frontend developer that likes sitting wild haired and eyed from too much :coffee:
 in the wee hours battling bugs. I'm currently learning the Next.js 
