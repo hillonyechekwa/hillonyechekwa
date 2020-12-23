@@ -10,7 +10,7 @@ react tool chains like gatsby.
 
 FunFact: I'm a pancake addict and i tend to name my projects after pancakes on github. 
 
-If you have a job for me or questions? you can follow me on [Twitter](https://twitter.com/andonthishill), [Linkedin](https://linkedin.com/in/hillary-onyechekwa-9aa08b178) or [my personal website](https://hillwillcodeforpancakes.netlify.app)
+If you have a job for me or questions? you can follow/contact me on [Twitter](https://twitter.com/andonthishill), [Linkedin](https://linkedin.com/in/hillary-onyechekwa-9aa08b178) or [my personal website](https://hillwillcodeforpancakes.netlify.app)
 
 Cheers :clinking_glasses:
 
