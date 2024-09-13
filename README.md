@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a renters insight app<br>I'm looking to collaborate on interesting AI projects<br>I'm looking for help with getting into robotics software engineering<br>I'm currently learning Rust<br>Ask me about systems architecture<br>fun fact: I love to write and read in my free time.
+🔭I'm currently working on a renters insight app<br>👨🏿‍🤝‍👨🏾 I'm looking to collaborate on interesting AI projects<br>🤝🏾I'm looking for help with getting into robotics software engineering<br>🌱I'm currently learning Rust<br>💬Ask me about systems architecture<br>⚡fun fact: I love to write and read in my free time.
 
 
 ## 🌐 Socials:
